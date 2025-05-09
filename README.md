@@ -34,7 +34,7 @@ Spring Boot · Angular · Node.js · REST APIs · Tableau · Git · PostgreSQL �
 
 - [LinkedIn](https://linkedin.com/in/anthony-fumagalli)
 - 📧 anthony.fumagalli88@gmail.com
-- [Download My Resume (PDF)](https://github.com/amfuma/amfuma/blob/main/Anthony_Fumagalli_Resume_2025.pdf)
+- [Download My Resume (PDF)](https://github.com/amfuma/amfuma/blob/main/Anthony_Fumagalli_Resume.pdf)
 
 ---
 
